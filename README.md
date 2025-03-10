@@ -1,3 +1,2 @@
-# Build and Run the Java Code 
-
-```javac Main.java```
+- Build and Run the Java Code: ```javac Main.java```
+- Run the compiled program: ```java Main```
